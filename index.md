@@ -74,6 +74,7 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 ### Skills
 
 - Proficient - SQL, PL-SQL, Python, Descriptive Statistics, Supervised/Un-Supervised Learning, Deep Learning
+
 - Intermediate - NLP, Unix Scripting, IBM Tivoli, Tableau Desktop, Big Data, Spark, Airflow, AWS
 
 
