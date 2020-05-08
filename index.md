@@ -6,10 +6,10 @@
 
 
 ---
-[Senior Data Analyst at Accenture | July 2017 - July 2019](/pdf/sample_presentation.pdf)
+[Senior Data Analyst at Accenture | July 2017 - July 2019](https://www.accenture.com/us-en/services/consulting/technology-consulting)
 
 ---
-[IT Analyst at Tata Consultancy Services | June 2012 - July 2017](http://example.com/)
+[IT Analyst at Tata Consultancy Services | June 2012 - July 2017](https://www.tcs.com)
 
 ---
 
@@ -58,7 +58,7 @@
 - Service and Commitment Award (2017) @ Tata Consultancy Services
 - Best Team (02-Jan-2017) @ Tata Consultancy Services
 - Certificate of Appreciation @ Tata Consultancy Services
-- Walk the Talk  (31-Aug-2016) @ Sony Pictures Entertainment - Tata Consultancy Services
+- Walk the Talk  (31-Aug-2016) @ Sony Pictures Entertainment
 - Best Team (11-Jul-2016) @ Tata Consultancy Services
 - Service and Commitment Award (2015) @ Tata Consultancy Services
 - Star of the Month (01-Sep-2015) @ Tata Consultancy Services
