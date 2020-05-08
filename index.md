@@ -1,3 +1,12 @@
+## Professional Experience
+
+- [Data Science Student Consultant at Mays (Jan 2020 - Apr 2020)]
+
+- [Senior Data Analyst at Accenture (July 2017 - July 2019)]
+
+- [IT Analyst at TCS (Jun 2012 - July 2017)]
+
+
 
 ## Academic Projects - Machine Learning, Deep Learning, NLP
 
@@ -19,9 +28,13 @@
 ## Academic Projects - Data Visualization
 
 - [World Wide Suicide Rates - 1985-2016](https://public.tableau.com/profile/sagar.sahoo#!/vizhome/TWorldWideSuicideRates/WorldSuicideStatistics)
+
 - [Rat Sightings in New York City](https://public.tableau.com/profile/sagar.sahoo#!/vizhome/RatSightingsinNYC_15816098505950/RatSightings)
+
 - [Racial Segregation in America's Schools](https://public.tableau.com/profile/sagar.sahoo#!/vizhome/RacialSegregation_15811339486320/RacialSegregation)
+
 - [Worldwide Sales Dashboard](https://public.tableau.com/profile/sagar.sahoo#!/vizhome/Customer_15810341164900/WorldwideSales)
+
 - [Game of Thrones - Bloodspills](https://public.tableau.com/profile/sagar.sahoo#!/vizhome/Sat_Project/GOTStoryLine)
 
 
@@ -34,12 +47,19 @@
 ## Certifications
 
 - [Deep Learning Specialization - Jan 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/7MBNVWEBJJV2)
+
 - [AWS Machine Learning - Mar 2020](https://www.coursera.org/account/accomplishments/certificate/8KX9VUXBUXBB)
+
 - [Natural Language Processing using Tensorflow - Apr 2020](https://www.coursera.org/account/accomplishments/certificate/3AVDX6QNJ9KL)
+
 - [Advanced Google Analytics - July 2019](https://analytics.google.com/analytics/academy/certificate/qIGtqA0gRmOy0xx9BtY2Aw)
+
 - [Applied Machine Learning in Python - Oct 2019](https://www.coursera.org/account/accomplishments/certificate/24N2RRVPBCUR)
+
 - [Artificial Intelligence for Everyone - Apr 2019](https://www.coursera.org/account/accomplishments/certificate/T8VGKJB29QKQ)
+
 - [Tableau A-Z: Hands-On Tableau Training for Data Science - May 2018](https://www.udemy.com/certificate/UC-TB6XLYQB/)
+
 - [Hands On Hadoop/Big Data - Sep 2018](https://www.udemy.com/certificate/UC-SHCFQV96/)
 
 
@@ -47,6 +67,7 @@
 ## Volunteer Experience
 
 - [MS Business Analytics Student Ambassador - Univeristy of Cincinnati](https://business.uc.edu/academics/specialized-masters/business-analytics.html)
+
 - [Student Brand Ambassador - Prodigy Finance](https://prodigyfinance.com)
 
 
