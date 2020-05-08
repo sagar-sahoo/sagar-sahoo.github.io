@@ -18,10 +18,9 @@
 ### Academic Projects 
 
 [Performance Evaluation of Traditional Machine Learning vs Deep Learning in Image Recognition](https://github.com/sagar-sahoo/Traditional-ML-vs-Deep-Learning)
-<br> Image identification powered by innovative machine learning has already been embedded in several fields with impressive success. It is used for automated image organization of large databases, facial recognition on social networks such as Facebook. Image recognition makes image classification for stock websites easier, and even fuels marketers’ creativity by enabling them to craft interactive brand campaigns.
+Image identification powered by innovative machine learning has already been embedded in several fields with impressive success. It is used for automated image organization of large databases, facial recognition on social networks such as Facebook. Image recognition makes image classification for stock websites easier, and even fuels marketers’ creativity by enabling them to craft interactive brand campaigns.
 
 And recently, Deep Neural Networks (DNNs) have emerged as powerful machine learning models that exhibit major differences from traditional approaches for image classification. Convolutional Neural Networks (CNNs) is a special architecture of artificial neural networks, proposed by Yann LeCun in 1988 and CNNs coupled with computational advancements has pushed the limits of what was possible in the domain of Digital Image Processing.
-</br>
 
 ---
 [Predicting Question Similarity and Topics using Deep Learning and LDA](https://github.com/sagar-sahoo/Question-Similarity-and-Topic-Modeling-using-Deep-Learning-and-LDA)
