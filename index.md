@@ -45,7 +45,7 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 - [FAA Data Analysis for prediction of Landing Distance for Boeing/Airbus using SAS](https://github.com/sagar-sahoo/FAA-Analysis)
 
-
+- [Identification of Important Features in predicting Median Housing prices of Boston using Data Mining](https://github.com/sagar-sahoo/Boston-Housing-Price-Case-Study)
 
 
 ### Academic Projects - Data Visualization using Tableau
