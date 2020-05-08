@@ -68,5 +68,4 @@
 ---
 
 ---
-<p style="font-size:11px">Thank You <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
