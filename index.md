@@ -18,31 +18,26 @@
 ### Academic Projects 
 
 [Performance Evaluation of Traditional Machine Learning vs Deep Learning in Image Recognition](https://github.com/sagar-sahoo/Traditional-ML-vs-Deep-Learning)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Predicting Question Similarity and Topics using Deep Learning and LDA](https://github.com/sagar-sahoo/Question-Similarity-and-Topic-Modeling-using-Deep-Learning-and-LDA)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Telecom Customer Churn using Machine Learning](https://github.com/sagar-sahoo/Telecom-Customer-Churn)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
 ---
 [Toxic Comment Classification using Python(NLP)](https://github.com/sagar-sahoo/Toxic-Comment-Classification)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
 [Titanic Survival Modeling](https://github.com/sagar-sahoo/Titanic-Survival-Modeling)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
 [FAA Data Analysis using SAS](https://github.com/sagar-sahoo/FAA-Analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
