@@ -26,26 +26,29 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 
 
-
 ### Academic Projects - Machine Learning and NLP
 
 - [Performance Evaluation of Traditional Machine Learning (Logistic/Decision Trees/Random Forests/PCA/Gradient Boosting) vs Deep Learning (Multi Layered CNN / VGG-16) in Image Recognition](https://github.com/sagar-sahoo/Traditional-ML-vs-Deep-Learning)
 
 - [Prediction of Question Similarity and Topics using Deep Learning (Word Embeddings/GloVe/LSTM) and Topic Modeling (LDA)](https://github.com/sagar-sahoo/Question-Similarity-and-Topic-Modeling-using-Deep-Learning-and-LDA)
 
-- [Toxic Comment Classification (NLP) using Tf-idf Vectorizer and Logistic Regression](https://github.com/sagar-sahoo/Toxic-Comment-Classification)
+- [Toxic Comment Classification (NLP) - Threats, Obscenity, Insults, and Identity-based Hate using Tf-idf Vectorizer and Logistic Regression](https://github.com/sagar-sahoo/Toxic-Comment-Classification)
 
 - [Deep Neural Network for Classification of Cat vs Non-Cat Images](https://github.com/sagar-sahoo/Deep-Neural-Network-for-Image-Classification)
 
 - [Analysis of Airbnb Listings and Zillow Pricings for recommendation of profitable Zip-codes for Short Term Investments](https://github.com/sagar-sahoo/Airbnb-Zillow-Housing-Analysis)
 
-- [Titanic Survival Prediction using Statistical Modeling and Machine Learning](https://github.com/sagar-sahoo/Titanic-Survival-Modeling)
+- [Titanic Survival Prediction using Feature Engineering and Machine Learning](https://github.com/sagar-sahoo/Titanic-Survival-Modeling)
 
 - [Prediction of Telecom Customer Churn and identification of Significant Factors using Machine Learning](https://github.com/sagar-sahoo/Telecom-Customer-Churn)
 
 - [FAA Data Analysis for prediction of Landing Distance for Boeing/Airbus using SAS](https://github.com/sagar-sahoo/FAA-Analysis)
 
-- [Identification of Important Features in predicting Median Housing prices of Boston using Data Mining](https://github.com/sagar-sahoo/Boston-Housing-Price-Case-Study)
+- [Identification of Significant Features in predicting Median Housing Prices of Boston using Data Mining](https://github.com/sagar-sahoo/Boston-Housing-Price-Case-Study)
+
+- [Predictive Model (Random Forest/Decision Trees) for “Michigan Data Science Team and City of Detroit” to predict non-complanit customers based on the probability of blight ticket compliance](https://github.com/sagar-sahoo/Michigan-Data-Science-Project)
+
+- [Prediction of Alumni Giving Rate using Exploratory Data Analysis and Multiple Linear Regression in R](https://github.com/sagar-sahoo/Regression-Case-Study)
 
 
 ### Academic Projects - Data Visualization using Tableau
@@ -67,6 +70,11 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 - [Application of Artificial Intelligence Techniques for Detection of Cracks-A Review - IJET 2012 Vol.5(1): 57-59 ISSN: 1793-8236](http://www.ijetch.org/papers/510-M058.pdf)
 
+
+### Skills
+
+- Proficient - SQL, PL-SQL, Python, Descriptive Statistics, Supervised/Un-Supervised Learning, Deep Learning
+- Intermediate - NLP, Unix Scripting, IBM Tivoli, Tableau Desktop, Big Data, Spark, Airflow, AWS
 
 
 ### Certifications
@@ -117,7 +125,7 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 - On The Spot Award (31-Aug-2016) at Tata Consultancy Services
 
-- [Certificates](/pdf/Appreciations.pdf)
+- [Award Certificates](/pdf/Appreciations.pdf)
 
 
 ### Contact Information
