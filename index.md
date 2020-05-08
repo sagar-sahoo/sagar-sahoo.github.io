@@ -17,16 +17,30 @@
 
 ---
 
-### Certifications
+### Publications
 
-- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/certificate/24N2RRVPBCUR)
-- [Project 2 Title](http://example.com/)
-- [Tableau A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-TB6XLYQB/)
-- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/qIGtqA0gRmOy0xx9BtY2Aw)
-- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/24N2RRVPBCUR)
+- [Application of Artificial Intelligence Techniques for Detection of Cracks-A Review - IJET 2012 Vol.5(1): 57-59 ISSN: 1793-8236](http://www.ijetch.org/papers/510-M058.pdf)
 
 ---
 
+### Certifications
+
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/certificate/24N2RRVPBCUR)
+- [AWS Machine Learning](https://www.coursera.org/account/accomplishments/certificate/8KX9VUXBUXBB)
+- [Natural Language Processing using Tensorflow](https://www.coursera.org/account/accomplishments/certificate/3AVDX6QNJ9KL)
+- [Tableau A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-TB6XLYQB/)
+- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/qIGtqA0gRmOy0xx9BtY2Aw)
+- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/24N2RRVPBCUR)
+- [Artificial Intelligence for Everyone](https://www.coursera.org/account/accomplishments/certificate/T8VGKJB29QKQ)
+
+---
+
+### Volunteer Experience
+
+- [MS Business Analytics Student Ambassador - Univeristy of Cincinnati](https://business.uc.edu/academics/specialized-masters/business-analytics.html)
+- [Student Brand Ambassador - Prodigy Finance](https://prodigyfinance.com)
+
+---
 
 
 
