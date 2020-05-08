@@ -1,8 +1,9 @@
 ## Professional Experience
 
-- [IT Analyst at Tata Consultancy Services | June 2012 - July 2017](https://www.tcs.com)
-- [Senior Data Analyst at Accenture | July 2017 - July 2019](https://www.accenture.com/us-en/services/consulting/technology-consulting)
-- [Data Science Student Consultant at Macys | Jan 2020 - Apr 2020](https://www.macys.com)
+- [IT Analyst at Tata Consultancy Services | June 2012 - July 2017] (https://www.tcs.com)
+- [Senior Data Analyst at Accenture | July 2017 - July 2019] (https://www.accenture.com/us-en/services/consulting/technology-consulting)
+- [Data Science Student Consultant at Macys | Jan 2020 - Apr 2020] (https://www.macys.com)
+
 
 
 ## Academic Projects - Machine Learning, Deep Learning, NLP
@@ -67,6 +68,5 @@
 - Service and Commitment Award (2015) @ Tata Consultancy Services
 - Star of the Month (01-Sep-2015) @ Tata Consultancy Services
 - On The Spot Award (31-Aug-2016) @ Tata Consultancy Services
-
 
 
