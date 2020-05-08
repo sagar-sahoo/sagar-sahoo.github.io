@@ -2,6 +2,8 @@
 
 ### Professional Experience 
 
+
+
 ---
 [IT Analyst at Tata Consultancy Services | June 2012 - July 2017](https://www.tcs.com)
 
@@ -13,8 +15,8 @@
 
 ---
 
-### Academic Projects - Machine Learning, Deep Learning and NLP
----
+### Academic Projects - Machine Learning, Deep Learning, NLP
+
 
 [Performance Evaluation of Traditional Machine Learning vs Deep Learning in Image Recognition](https://github.com/sagar-sahoo/Traditional-ML-vs-Deep-Learning)
 
@@ -40,11 +42,11 @@
 
 
 
----
+
 
 ### Academic Projects - Data Visualization
 
----
+
 
 [World Wide Suicide Rates - 1985-2016](https://public.tableau.com/profile/sagar.sahoo#!/vizhome/TWorldWideSuicideRates/WorldSuicideStatistics)
 
@@ -57,12 +59,12 @@
 [Game of Thrones - Bloodspills](https://public.tableau.com/profile/sagar.sahoo#!/vizhome/Sat_Project/GOTStoryLine)
 
 
----
+
 ### Publications
----
+
 - [Application of Artificial Intelligence Techniques for Detection of Cracks-A Review - IJET 2012 Vol.5(1): 57-59 ISSN: 1793-8236](http://www.ijetch.org/papers/510-M058.pdf)
 
----
+
 
 ### Certifications
 
@@ -75,14 +77,14 @@
 - [Tableau A-Z: Hands-On Tableau Training for Data Science - May 2018](https://www.udemy.com/certificate/UC-TB6XLYQB/)
 - [Hands On Hadoop/Big Data - Sep 2018](https://www.udemy.com/certificate/UC-SHCFQV96/)
 
----
+
 
 ### Volunteer Experience
 
 - [MS Business Analytics Student Ambassador - Univeristy of Cincinnati](https://business.uc.edu/academics/specialized-masters/business-analytics.html)
 - [Student Brand Ambassador - Prodigy Finance](https://prodigyfinance.com)
 
----
+
 
 ### Professional Appreciations
 
@@ -97,4 +99,3 @@
 
 
 
-<!-- Remove above link if you don't want to attibute -->
