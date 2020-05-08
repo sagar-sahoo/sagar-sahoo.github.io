@@ -1,3 +1,16 @@
+## Introduction
+
+Senior Data Analyst with a demonstrated history of working in Data Science, Analytics, Business Intelligence and Project Management across multiple Business Domains - Retail, Digital Media, Capital Markets and Human Resources. 
+
+Currently, at the University of Cincinnati, I am engaged in learning and applying Advanced Machine Learning/ Deep Learning Algorithms and the advancements being made in this field to better utilize the potential that data holds.
+
+I am looking for Full-Time roles in Data Science & Analytics, Business Intelligence starting in August 2020. 
+
+I am currently on F1 Visa and authorized to work in OPT without sponsorship till May 2023.
+
+If you have any FT opportunities or want to discuss Data Science / Machine Learning Topics, you can contact me :
+Telephone No: +1 513-836-1895
+
 ## Professional Experience
 
 - [Data Science Student Consultant at Mays (Jan 2020 - Apr 2020)](https://www.macys.com)
