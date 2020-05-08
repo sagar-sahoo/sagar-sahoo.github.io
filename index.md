@@ -31,7 +31,7 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 - [Performance Evaluation of Traditional Machine Learning (Logistic/Decision Trees/Random Forests/PCA/Gradient Boosting) vs Deep Learning (Multi Layered CNN / VGG-16) in Image Recognition](https://github.com/sagar-sahoo/Traditional-ML-vs-Deep-Learning)
 
-- [Prediction of Question Similarity and Topics using Deep Learning (Word Embeddings/GloVe/LSTMs) and Topic Modeling (LDA)](https://github.com/sagar-sahoo/Question-Similarity-and-Topic-Modeling-using-Deep-Learning-and-LDA)
+- [Prediction of Question Similarity and Topics using Deep Learning (Word Embeddings/GloVe/LSTM) and Topic Modeling (LDA)](https://github.com/sagar-sahoo/Question-Similarity-and-Topic-Modeling-using-Deep-Learning-and-LDA)
 
 - [Toxic Comment Classification (NLP) using Tf-idf Vectorizer and Logistic Regression](https://github.com/sagar-sahoo/Toxic-Comment-Classification)
 
@@ -41,7 +41,7 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 - [Titanic Survival Prediction using Statistical Modeling and Machine Learning](https://github.com/sagar-sahoo/Titanic-Survival-Modeling)
 
-- [Prediction of Telecom Customer Churn and identifying Significant Factors using Machine Learning](https://github.com/sagar-sahoo/Telecom-Customer-Churn)
+- [Prediction of Telecom Customer Churn and identification of Significant Factors using Machine Learning](https://github.com/sagar-sahoo/Telecom-Customer-Churn)
 
 - [FAA Data Analysis for prediction of Landing Distance for Boeing/Airbus using SAS](https://github.com/sagar-sahoo/FAA-Analysis)
 
