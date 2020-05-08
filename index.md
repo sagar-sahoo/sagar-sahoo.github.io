@@ -6,6 +6,11 @@
 
 - [IT Analyst at TCS (Jun 2012 - July 2017)](https://www.tcs.com)
 
+## Education
+
+- [Master's in Business Analytics at the University of Cincinnati (Aug 2019- Aug 2020)](https://business.uc.edu/academics/specialized-masters/business-analytics.html)
+- [Bachelor's in Mechanical Engineering at the Siksha O Anusandhan University (Aug 2008 - May 2012](https://www.soa.ac.in)
+
 
 
 
