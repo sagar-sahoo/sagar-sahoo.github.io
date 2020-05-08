@@ -80,7 +80,7 @@
 - Service and Commitment Award (2015) @ Tata Consultancy Services
 - Star of the Month (01-Sep-2015) @ Tata Consultancy Services
 - On The Spot Award (31-Aug-2016) @ Tata Consultancy Services
-- [Appendix] (/pdf/Appreciations.pdf)
+- [Appendix (/pdf/Appreciations.pdf)]
 
 
 
