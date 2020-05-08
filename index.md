@@ -4,13 +4,13 @@
 
 ### Professional Experience 
 
-[Data Science Student Consultant at Macy's](/sample_page)
+[Data Science Student Consultant at Macy's | Jan 2020 - Apr 2020](/sample_page)
 
 ---
-[Senior Data Analyst at Accenture](/pdf/sample_presentation.pdf)
+[Senior Data Analyst at Accenture | July 2017 - July 2019](/pdf/sample_presentation.pdf)
 
 ---
-[IT Analyst at Tata Consultancy Services](http://example.com/)
+[IT Analyst at Tata Consultancy Services | June 2012 - July 2017](http://example.com/)
 
 ---
 
@@ -54,7 +54,19 @@
 
 ---
 
+### Professional Appreciations
 
+- Service and Commitment Award (2017) @ Tata Consultancy Services
+- Best Team (02-Jan-2017) @ Tata Consultancy Services
+- Certificate of Appreciation @ Tata Consultancy Services
+- Walk the Talk  (31-Aug-2016) @ Sony Pictures Entertainment - Tata Consultancy Services
+- Best Team (11-Jul-2016) @ Tata Consultancy Services
+- Service and Commitment Award (2015) @ Tata Consultancy Services
+- Star of the Month (01-Sep-2015) @ Tata Consultancy Services
+- On The Spot Award (31-Aug-2016) @ Tata Consultancy Services
+
+
+---
 
 ---
 <p style="font-size:11px">Thank You <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
