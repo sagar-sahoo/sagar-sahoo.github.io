@@ -2,7 +2,9 @@
 
 ### Professional Experience 
 
+---
 
+---
 [IT Analyst at Tata Consultancy Services | June 2012 - July 2017](https://www.tcs.com)
 
 
