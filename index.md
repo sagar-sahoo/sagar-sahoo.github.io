@@ -1,7 +1,7 @@
 
 ## Introduction
 
-Senior Data Analyst with a demonstrated history of working in Data Science, Analytics, Business Intelligence and Project Management across multiple Business Domains - Retail, Digital Media, Capital Markets and Human Resources. 
+Data Scientist with a demonstrated history of working in Data Science, Analytics, Business Intelligence and Project Management across multiple Business Domains - Retail, Digital Media, Capital Markets and Human Resources. 
 
 Currently, at the University of Cincinnati, I am engaged in learning and applying Advanced Machine Learning/ Deep Learning Algorithms and the advancements being made in this field to better utilize the potential that data holds.
 
