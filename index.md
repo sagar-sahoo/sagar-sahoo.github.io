@@ -5,15 +5,12 @@
 ### Professional Experience 
 
 [Data Science Student Consultant at Macy's](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Senior Data Analyst at Accenture](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [IT Analyst at Tata Consultancy Services](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
