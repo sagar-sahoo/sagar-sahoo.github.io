@@ -10,7 +10,7 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 ## Professional Experience
 
-- [Data Science Student Consultant at Macys (Jan 2020 - Apr 2020)](https://www.macys.com)
+- [Data Science Student Consultant at Macy's (Jan 2020 - Apr 2020)](https://www.macys.com)
 
 - [Senior Data Analyst at Accenture (July 2017 - July 2019)](https://www.accenture.com/us-en)
 
@@ -34,6 +34,8 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 - [Toxic Comment Classification (NLP) using Tf-idf Vectorizer and Logistic Regression](https://github.com/sagar-sahoo/Toxic-Comment-Classification)
 
 - [Deep Neural Network for Classification of Cat vs Non-Cat Images](https://github.com/sagar-sahoo/Deep-Neural-Network-for-Image-Classification)
+
+- [Analyse Airbnb Listings and Zillow Pricing Data to recommend profitable Zip-codes for Short Term Investments](https://github.com/sagar-sahoo/Airbnb-Zillow-Housing-Analysis)
 
 - [Titanic Survival Prediction using Statistical Modeling and Machine Learning](https://github.com/sagar-sahoo/Titanic-Survival-Modeling)
 
