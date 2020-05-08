@@ -17,6 +17,21 @@
 
 ---
 
+### Academic Projects 
+
+[Data Science Student Consultant at Macy's](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Senior Data Analyst at Accenture](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[IT Analyst at Tata Consultancy Services](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 ### Publications
 
 - [Application of Artificial Intelligence Techniques for Detection of Cracks-A Review - IJET 2012 Vol.5(1): 57-59 ISSN: 1793-8236](http://www.ijetch.org/papers/510-M058.pdf)
