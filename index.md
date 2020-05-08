@@ -10,7 +10,7 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 ## Professional Experience
 
-- [Data Science Student Consultant at Mays (Jan 2020 - Apr 2020)](https://www.macys.com)
+- [Data Science Student Consultant at Macys (Jan 2020 - Apr 2020)](https://www.macys.com)
 
 - [Senior Data Analyst at Accenture (July 2017 - July 2019)](https://www.accenture.com/us-en)
 
