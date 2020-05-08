@@ -1,11 +1,12 @@
-## Portfolio
 
----
 
 ### Professional Experience 
+---
 
+[Data Science Student Consultant at Macys | July 2017 - July 2019](https://www.macys.com)
 
 ---
+
 [Senior Data Analyst at Accenture | July 2017 - July 2019](https://www.accenture.com/us-en/services/consulting/technology-consulting)
 
 ---
@@ -26,23 +27,23 @@
 [Telecom Customer Churn using Machine Learning](https://github.com/sagar-sahoo/Telecom-Customer-Churn)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+
 
 ---
 [Toxic Comment Classification using Python(NLP)](https://github.com/sagar-sahoo/Toxic-Comment-Classification)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+
 ---
 [Titanic Survival Modeling](https://github.com/sagar-sahoo/Titanic-Survival-Modeling)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+
 ---
 [FAA Data Analysis using SAS](https://github.com/sagar-sahoo/FAA-Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+
 ---
 [Deep Neural Network for Image Classification](https://github.com/sagar-sahoo/Deep-Neural-Network-for-Image-Classification)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -85,7 +86,5 @@
 - On The Spot Award (31-Aug-2016) @ Tata Consultancy Services
 
 
----
 
----
 <!-- Remove above link if you don't want to attibute -->
