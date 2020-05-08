@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Professional Experience 
 
-[Project 1 Title](/sample_page)
+[Data Science Student Consultant at Macy's](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Senior Data Analyst at Accenture](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[IT Analyst at Tata Consultancy Services](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Certifications
 
-- [Project 1 Title](http://example.com/)
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/certificate/24N2RRVPBCUR)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Tableau A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-TB6XLYQB/)
+- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/qIGtqA0gRmOy0xx9BtY2Aw)
+- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/24N2RRVPBCUR)
 
 ---
 
@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Thank You <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
