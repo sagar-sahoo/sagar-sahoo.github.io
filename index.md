@@ -1,10 +1,10 @@
 ## Professional Experience
 
-- [Data Science Student Consultant at Mays (Jan 2020 - Apr 2020)]
+- [Data Science Student Consultant at Mays (Jan 2020 - Apr 2020)](https://www.macys.com)
 
-- [Senior Data Analyst at Accenture (July 2017 - July 2019)]
+- [Senior Data Analyst at Accenture (July 2017 - July 2019)](https://www.accenture.com/us-en)
 
-- [IT Analyst at TCS (Jun 2012 - July 2017)]
+- [IT Analyst at TCS (Jun 2012 - July 2017)](https://www.tcs.com)
 
 
 
