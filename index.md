@@ -97,22 +97,23 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 ## Professional Appreciations
 
-- Service and Commitment Award (2017) @ Tata Consultancy Services
+- Service and Commitment Award (2017) at Tata Consultancy Services
 
-- Best Team (02-Jan-2017) @ Tata Consultancy Services
+- Best Team Award (02-Jan-2017) at Tata Consultancy Services
 
-- Certificate of Appreciation @ Tata Consultancy Services
+- Certificate of Appreciation at Tata Consultancy Services
 
-- Walk the Talk  (31-Aug-2016) @ Sony Pictures Entertainment
+- Walk the Talk  Award (31-Aug-2016) at Sony Pictures Entertainment
 
-- Best Team (11-Jul-2016) @ Tata Consultancy Services
+- Best Team Award (11-Jul-2016) at Tata Consultancy Services
 
-- Service and Commitment Award (2015) @ Tata Consultancy Services
+- Service and Commitment Award (2015) at Tata Consultancy Services
 
-- Star of the Month (01-Sep-2015) @ Tata Consultancy Services
+- Star of the Month Award (01-Sep-2015) at Tata Consultancy Services
 
-- On The Spot Award (31-Aug-2016) @ Tata Consultancy Services
+- On The Spot Award (31-Aug-2016) at Tata Consultancy Services
 
+[Certficates](/pdf/Appreciations.pdf)
 
 
 ## Contact Information
