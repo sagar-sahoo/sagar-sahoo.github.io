@@ -53,14 +53,14 @@
 
 ### Certifications
 
-- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/certificate/24N2RRVPBCUR)
-- [AWS Machine Learning](https://www.coursera.org/account/accomplishments/certificate/8KX9VUXBUXBB)
-- [Natural Language Processing using Tensorflow](https://www.coursera.org/account/accomplishments/certificate/3AVDX6QNJ9KL)
-- [Tableau A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-TB6XLYQB/)
-- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/qIGtqA0gRmOy0xx9BtY2Aw)
-- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/24N2RRVPBCUR)
-- [Artificial Intelligence for Everyone](https://www.coursera.org/account/accomplishments/certificate/T8VGKJB29QKQ)
-
+- [Deep Learning Specialization - Jan 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/7MBNVWEBJJV2)
+- [AWS Machine Learning - Mar 2020](https://www.coursera.org/account/accomplishments/certificate/8KX9VUXBUXBB)
+- [Natural Language Processing using Tensorflow - Apr 2020](https://www.coursera.org/account/accomplishments/certificate/3AVDX6QNJ9KL)
+- [Advanced Google Analytics - July 2019](https://analytics.google.com/analytics/academy/certificate/qIGtqA0gRmOy0xx9BtY2Aw)
+- [Applied Machine Learning in Python - Oct 2019](https://www.coursera.org/account/accomplishments/certificate/24N2RRVPBCUR)
+- [Artificial Intelligence for Everyone - Apr 2019](https://www.coursera.org/account/accomplishments/certificate/T8VGKJB29QKQ)
+- [Tableau A-Z: Hands-On Tableau Training for Data Science - May 2018](https://www.udemy.com/certificate/UC-TB6XLYQB/)
+- [Hands On Hadoop/Big Data - Sep 2018](https://www.udemy.com/certificate/UC-SHCFQV96/)
 ---
 
 ### Volunteer Experience
@@ -80,7 +80,6 @@
 - Service and Commitment Award (2015) @ Tata Consultancy Services
 - Star of the Month (01-Sep-2015) @ Tata Consultancy Services
 - On The Spot Award (31-Aug-2016) @ Tata Consultancy Services
-- [Appendix] (/pdf/Appreciations.pdf)
 
 
 
