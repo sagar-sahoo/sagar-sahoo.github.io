@@ -1,4 +1,3 @@
-### Sagar Sahoo - Data Science Enthusiast
 
 ## Introduction
 
