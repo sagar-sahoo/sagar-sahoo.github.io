@@ -15,19 +15,39 @@
 
 ### Academic Projects 
 
-[Data Science Student Consultant at Macy's](/sample_page)
+[Performance Evaluation of Traditional Machine Learning vs Deep Learning in Image Recognition](https://github.com/sagar-sahoo/Traditional-ML-vs-Deep-Learning)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Senior Data Analyst at Accenture](/pdf/sample_presentation.pdf)
+[Predicting Question Similarity and Topics using Deep Learning and LDA](https://github.com/sagar-sahoo/Question-Similarity-and-Topic-Modeling-using-Deep-Learning-and-LDA)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[IT Analyst at Tata Consultancy Services](http://example.com/)
+[Telecom Customer Churn using Machine Learning](https://github.com/sagar-sahoo/Telecom-Customer-Churn)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
+---
+[Toxic Comment Classification using Python(NLP)](https://github.com/sagar-sahoo/Toxic-Comment-Classification)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+---
+[Titanic Survival Modeling](https://github.com/sagar-sahoo/Titanic-Survival-Modeling)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+---
+[FAA Data Analysis using SAS](https://github.com/sagar-sahoo/FAA-Analysis)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+---
+[Deep Neural Network for Image Classification](https://github.com/sagar-sahoo/Deep-Neural-Network-for-Image-Classification)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 ### Publications
 
 - [Application of Artificial Intelligence Techniques for Detection of Cracks-A Review - IJET 2012 Vol.5(1): 57-59 ISSN: 1793-8236](http://www.ijetch.org/papers/510-M058.pdf)
