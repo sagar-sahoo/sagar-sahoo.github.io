@@ -113,7 +113,7 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 - On The Spot Award (31-Aug-2016) at Tata Consultancy Services
 
-[Certificates](/pdf/Appreciations.pdf)
+- [Certificates](/pdf/Appreciations.pdf)
 
 
 ## Contact Information
