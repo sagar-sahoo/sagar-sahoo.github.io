@@ -4,7 +4,7 @@
 
 ### Professional Experience 
 
-[Data Science Student Consultant at Macy's | Jan 2020 - Apr 2020](/sample_page)
+[Data Science Student Consultant at Macys | Jan 2020 - Apr 2020]
 
 ---
 [Senior Data Analyst at Accenture | July 2017 - July 2019](/pdf/sample_presentation.pdf)
