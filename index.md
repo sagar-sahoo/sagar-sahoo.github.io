@@ -22,7 +22,7 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 - [Master's in Business Analytics at University of Cincinnati (Aug 2019- Aug 2020)](https://business.uc.edu/academics/specialized-masters/business-analytics.html)
 
-- [Bachelor's in Mechanical Engineering at Siksha O Anusandhan University (Aug 2008 - May 2012)](https://www.soa.ac.in)
+- [Bachelor's in Mechanical Engineering at Siksha 'O' Anusandhan University (Aug 2008 - May 2012)](https://www.soa.ac.in)
 
 
 
