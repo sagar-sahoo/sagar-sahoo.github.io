@@ -4,12 +4,13 @@
 
 - [Senior Data Analyst at Accenture (July 2017 - July 2019)](https://www.accenture.com/us-en)
 
-- [IT Analyst at TCS (Jun 2012 - July 2017)](https://www.tcs.com)
+- [IT Analyst at Tata Consultancy Services (Jun 2012 - July 2017)](https://www.tcs.com)
 
 ## Education
 
-- [Master's in Business Analytics at the University of Cincinnati (Aug 2019- Aug 2020)](https://business.uc.edu/academics/specialized-masters/business-analytics.html)
-- [Bachelor's in Mechanical Engineering at the Siksha O Anusandhan University (Aug 2008 - May 2012](https://www.soa.ac.in)
+- [Master's in Business Analytics at University of Cincinnati (Aug 2019- Aug 2020)](https://business.uc.edu/academics/specialized-masters/business-analytics.html)
+
+- [Bachelor's in Mechanical Engineering at Siksha O Anusandhan University (Aug 2008 - May 2012)](https://www.soa.ac.in)
 
 
 
@@ -33,9 +34,9 @@
 
 
 
-## Academic Projects - Data Visualization
+## Academic Projects - Data Visualization using Tableau
 
-- [World Wide Suicide Rates - 1985-2016](https://public.tableau.com/profile/sagar.sahoo#!/vizhome/TWorldWideSuicideRates/WorldSuicideStatistics)
+- [World Wide Suicide Rates (1985-2016)](https://public.tableau.com/profile/sagar.sahoo#!/vizhome/TWorldWideSuicideRates/WorldSuicideStatistics)
 
 - [Rat Sightings in New York City](https://public.tableau.com/profile/sagar.sahoo#!/vizhome/RatSightingsinNYC_15816098505950/RatSightings)
 
@@ -107,9 +108,7 @@
 ## Contact Information
 
  - [LinkedIn](https://www.linkedin.com/in/sagar-sahoo/)
- 
- - [Email](sssagarsahoo@gmail.com)
- 
+  
  - [Github](https://github.com/sagar-sahoo)
  
  - [Facebook](https://www.facebook.com/sagar.sahoo.35)
