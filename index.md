@@ -1,6 +1,7 @@
 
 
-### Professional Experience 
+### Professional Experience
+
 ---
 - [IT Analyst at Tata Consultancy Services | June 2012 - July 2017](https://www.tcs.com)
 - [Senior Data Analyst at Accenture | July 2017 - July 2019](https://www.accenture.com/us-en/services/consulting/technology-consulting)
