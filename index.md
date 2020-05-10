@@ -1,4 +1,4 @@
-## Sagar Sahoo - Data Science Enthusiast
+## Sagar Sahoo - Data Enthusiast
 
 
 ### Introduction
@@ -75,7 +75,7 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 - Proficient - SQL, PL-SQL, Python, Descriptive Statistics, Supervised/Un-Supervised Learning, Deep Learning
 
-- Intermediate - NLP, Unix Scripting, IBM Tivoli, Tableau Desktop, Big Data, Spark, Airflow, AWS
+- Intermediate - ETL, R, NLP, Unix Scripting, IBM Tivoli, Tableau, Big Data, Spark, Apache Airflow, AWS, My-SQL, Cassandra
 
 
 ### Certifications
