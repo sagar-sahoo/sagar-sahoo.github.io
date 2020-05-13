@@ -15,12 +15,26 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 - [Data Science Student Consultant at Macy's (Jan 2020 - Apr 2020)](https://www.macys.com)
 
 - [Senior Data Analyst at Accenture (July 2017 - July 2019)](https://www.accenture.com/us-en)
+    - Client (Capital Markets) - [Wellington Managenemt LLC](https://www.wellington.com/en/) 
 
 - [IT Analyst at Tata Consultancy Services (Jun 2012 - July 2017)](https://www.tcs.com)
+    - Client (Digital Media & Planning) - [Sony Pictures Entertainment](https://www.google.com/search?client=safari&rls=en&q=sony+pictures+entertainment&ie=UTF-8&oe=UTF-8)
+    - Client (Retail & E-Commerce) - [Trent Ltd](https://www.tata.com/business/trent)
 
 ### Education
 
 - [Master's in Business Analytics at University of Cincinnati (Aug 2019- Aug 2020)](https://business.uc.edu/academics/specialized-masters/business-analytics.html)
+     - Relevant Coursework
+       - Statistical Methods & Modeling
+       - Simulation Modeling
+       - Probability Models
+       - Optimization
+       - Data Mining 
+       - Data Visualization 
+       - Big Data Integration 
+       - Forecasting & Time Series Methods 
+       - Applied Linear Regression 
+       - Survey of Machine Learning
 
 - [Bachelor's in Mechanical Engineering at Siksha 'O' Anusandhan University (Aug 2008 - May 2012)](https://www.soa.ac.in)
 
