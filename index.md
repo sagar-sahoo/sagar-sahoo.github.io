@@ -12,6 +12,8 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 ### Professional Experience
 
+- [Data Science Intern II at Boehringer Ingelheim (May 2020 - Present)](https://www.boehringer-ingelheim.com)
+
 - [Data Science Student Consultant at Macy's (Jan 2020 - Apr 2020)](https://www.macys.com)
 
 - [Senior Data Analyst at Accenture (July 2017 - July 2019)](https://www.accenture.com/us-en)
