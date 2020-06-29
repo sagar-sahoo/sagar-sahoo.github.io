@@ -50,6 +50,8 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 - [Toxic Comment Classification (NLP) - Threats, Obscenity, Insults, and Identity-based Hate using Tf-idf Vectorizer and Logistic Regression](https://github.com/sagar-sahoo/Toxic-Comment-Classification)
 
+- [Twitter Sarcasm Detection and Analysis using Word Cloud, gloVe/LSTM and tf-idf/XGBoost](https://github.com/sagar-sahoo/Sarcasm-Detection)
+
 - [Deep Neural Network for Classification of Cat vs Non-Cat Images](https://github.com/sagar-sahoo/Deep-Neural-Network-for-Image-Classification)
 
 - [Analysis of Airbnb Listings and Zillow Pricings for recommendation of profitable Zip-codes for Short Term Investments](https://github.com/sagar-sahoo/Airbnb-Zillow-Housing-Analysis)
@@ -65,6 +67,8 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 - [Predictive Model (Random Forest/Decision Trees) for “Michigan Data Science Team and City of Detroit” to predict non-complanit customers based on the probability of blight ticket compliance](https://github.com/sagar-sahoo/Michigan-Data-Science-Project)
 
 - [Prediction of Alumni Giving Rate using Exploratory Data Analysis and Multiple Linear Regression in R](https://github.com/sagar-sahoo/Regression-Case-Study)
+
+- [Quant Hub Data Challenge - University of Cincinncati](https://github.com/sagar-sahoo/Quant-Hub-Data-Challenge)
 
 
 ### Academic Projects - Data Visualization using Tableau
@@ -95,6 +99,8 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 
 ### Certifications
+
+- [Tableau Data Scientist - June 2020](https://www.youracclaim.com/badges/506a0df6-8fb2-4278-8807-9fa230f8c1e1/linked_in_profile)
 
 - [Deep Learning Specialization - Jan 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/7MBNVWEBJJV2)
 
