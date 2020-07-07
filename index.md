@@ -3,9 +3,9 @@
 
 ### Introduction
 
-Data Scientist with a demonstrated history of working in Data Science, Analytics, Business Intelligence and Project Management across multiple Business Domains - Retail, Digital Media, Capital Markets and Human Resources. 
+Data Enthusiast with a demonstrated history of working in Data Science, Analytics, Business Intelligence and Project Management across multiple Business Domains - Retail, Digital Media, Capital Markets and Human Resources. 
 
-Currently, at the University of Cincinnati, I am engaged in learning and applying Advanced Machine Learning/ Deep Learning Algorithms and the advancements being made in this field to better utilize the potential that data holds.
+Currently, at the University of Cincinnati, I am engaged in learning and applying Advanced Machine Learning Algorithms and the advancements being made in this field to better utilize the potential that data holds.
 
 I am looking for Full-Time roles in Data Science & Analytics, Business Intelligence starting in August 2020. I am currently on F1 Visa and authorized to work in OPT without sponsorship till May 2023.
 
@@ -16,10 +16,10 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 - [Data Science Student Consultant at Macy's (Jan 2020 - Apr 2020)](https://www.macys.com)
 
-- [Senior Data Analyst at Accenture (July 2017 - July 2019)](https://www.accenture.com/us-en)
+- [Senior  Analyst at Accenture (July 2017 - July 2019)](https://www.accenture.com/us-en)
     - Client (Capital Markets) - [Wellington Managenemt LLC](https://www.wellington.com/en/) 
 
-- [Data Analyst at Tata Consultancy Services (Jun 2012 - July 2017)](https://www.tcs.com)
+- [IT Analyst at Tata Consultancy Services (Jun 2012 - July 2017)](https://www.tcs.com)
     - Client (Digital Media & Planning) - [Sony Pictures Entertainment](https://www.google.com/search?client=safari&rls=en&q=sony+pictures+entertainment&ie=UTF-8&oe=UTF-8)
     - Client (Retail & E-Commerce) - [Trent Ltd](https://www.tata.com/business/trent)
 
