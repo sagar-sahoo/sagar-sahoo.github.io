@@ -12,6 +12,8 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 ### Professional Experience
 
+- [Lead Assistant Manager, Data Science at EXL (Oct 2020 - Present)](https://www.exlservice.com/)
+
 - [Data Science Intern II at Boehringer Ingelheim (May 2020 - Present)](https://www.boehringer-ingelheim.com)
 
 - [Data Science Student Consultant at Macy's (Jan 2020 - Apr 2020)](https://www.macys.com)
@@ -43,6 +45,10 @@ I am looking for Full-Time roles in Data Science & Analytics, Business Intellige
 
 
 ### Academic Projects - Machine Learning and NLP
+
+- [Employee Attrition Prediction Modeling](https://github.com/sagar-sahoo/Employee-Attrition)
+
+- [B2C Strategy Analytics using A/B Testing](https://github.com/sagar-sahoo/B2C-Strategy-Analytics)
 
 - [Performance Evaluation of Traditional Machine Learning (Logistic/Decision Trees/Random Forests/PCA/Gradient Boosting) vs Deep Learning (Multi Layered CNN / VGG-16) in Image Recognition](https://github.com/sagar-sahoo/Traditional-ML-vs-Deep-Learning)
 
